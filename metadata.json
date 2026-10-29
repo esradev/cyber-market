@@ -1,0 +1,6 @@
+{
+  "name": "سایبر مارکت - Cyber Market RTL",
+  "description": "یک بازار پیشرفته و مدرن برای خرید قالب‌ها، افزونه‌ها و دوره‌های آموزشی وردپرس با رابط کاربری کاملاً راست‌چین و به زبان فارسی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
